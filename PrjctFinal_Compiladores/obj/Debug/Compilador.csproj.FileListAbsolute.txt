@@ -1,0 +1,30 @@
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.exe.config
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.exe
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.pdb
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\obj\Debug\Compilador.principal.resources
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.exe
+X:\Workspace\compiladores\Proyecto final\Mini Compilador\Mini Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.pdb
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.exe.config
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.exe
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.pdb
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.principal.resources
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.exe
+X:\Workspace\compiladores\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.pdb
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.exe.config
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.exe
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\bin\Debug\Minicompilador.pdb
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csproj.AssemblyReference.cache
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.principal.resources
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.Properties.Resources.resources
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csproj.GenerateResource.cache
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.exe
+E:\EQUIPO\ESCRITORIO\Proyecto final\Compilador\Compilador (Programa)\Minicompilador\obj\Debug\Minicompilador.pdb

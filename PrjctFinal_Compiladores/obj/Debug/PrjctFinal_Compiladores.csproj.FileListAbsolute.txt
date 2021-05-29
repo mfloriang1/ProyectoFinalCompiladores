@@ -1,0 +1,20 @@
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\Compilador.principal.resources
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.Properties.Resources.resources
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\bin\Debug\PrjctFinal_Compiladores.exe.config
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\bin\Debug\PrjctFinal_Compiladores.exe
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\bin\Debug\PrjctFinal_Compiladores.pdb
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.exe
+C:\Users\crist\source\repos\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.pdb
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\bin\Debug\PrjctFinal_Compiladores.exe.config
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\bin\Debug\PrjctFinal_Compiladores.exe
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\bin\Debug\PrjctFinal_Compiladores.pdb
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.csprojAssemblyReference.cache
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\Compilador.principal.resources
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.Properties.Resources.resources
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.csproj.GenerateResource.cache
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.exe
+C:\Users\Maria Florian\Downloads\PrjctFinal_Compiladores\PrjctFinal_Compiladores\obj\Debug\PrjctFinal_Compiladores.pdb
